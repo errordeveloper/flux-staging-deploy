@@ -1,0 +1,1 @@
+{"jobID":"8b6e9fdc-a13f-b65a-71cb-3969b3e2287b","spec":{"type":"policy","cause":{"Message":"","User":"ilya@weave.works"},"spec":{"sock-shop/catalogue":{"add":{"locked":"true"},"remove":null}}},"result":null}
